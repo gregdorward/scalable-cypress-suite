@@ -1,0 +1,11 @@
+{
+  "accountEmail": "test.user@example.com",
+  "accountPhone": "5555555555",
+  "shipAddress": "1600 Amphitheatre Parkway",
+  "shipCity": "Mountain View",
+  "shipState": "CA",
+  "shipZip": "94043",
+  "ccName": "Test User",
+  "ccNumber": "4111 1111 1111 1111",
+  "ccCVV": "123"
+}

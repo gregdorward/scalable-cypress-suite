@@ -1,0 +1,18 @@
+{
+  "techShell": {
+    "name": "Men+s+Tech+Shell+Full-Zip",
+    "title": "Men's Tech Shell Full-Zip",
+    "category": "mens_outerwear",
+    "price": 50.2,
+    "image": "data/images/10-15068B.jpg",
+    "largeImage": "data/images/10-15068A.jpg"
+  },
+  "chromeTee": {
+    "name": "Ladies+Chrome+T-Shirt",
+    "title": "Ladies Chrome T-Shirt",
+    "category": "ladies_tshirts",
+    "price": 13.3,
+    "image": "data/images/10-23180B.jpg",
+    "largeImage": "data/images/10-23180A.jpg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "cypress-suite",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cypress end-to-end tests for the Polymer Shop demo",
+  "scripts": {
+    "cy:open": "cypress open --e2e --browser chrome",
+    "cy:run": "cypress run --e2e --browser chrome",
+    "test": "cypress run --e2e --browser chrome"
+  },
+  "devDependencies": {
+    "cypress": "^16.3.0"
+  }
+}
